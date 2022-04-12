@@ -361,7 +361,7 @@ bisv:
 bkbiet:
   ttl: 1
   type: CNAME
-  value: bkbiethackclub.netlify.com.
+  value: hackclubbkbiet.netlify.app.
 blair:
   ttl: 1
   type: CNAME
